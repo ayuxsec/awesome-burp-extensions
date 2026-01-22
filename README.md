@@ -7,6 +7,7 @@
 3. https://github.com/h0tak88r/Convert-Type-Convert-All
 4. https://github.com/portswigger/backslash-powered-scanner
 5. https://github.com/portswigger/js-miner
+6. https://github.com/portswigger/inql
 
 **Misc**
 
