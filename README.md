@@ -12,4 +12,5 @@
 **Misc**
 
 6. https://github.com/portswigger/logger-plus-plus
-7. https://github.com/PortSwigger/collaborator-everywhere
+7. https://github.com/PortSwigger/collaborator-everywhere (ssrf)
+8. https://github.com/portswigger/autorize (idor)
