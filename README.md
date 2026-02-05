@@ -8,6 +8,7 @@
 4. https://github.com/portswigger/backslash-powered-scanner
 5. https://github.com/portswigger/js-miner
 6. https://github.com/portswigger/inql
+7. https://github.com/vulnersCom/burp-vulners-scanner
 
 **Misc**
 
