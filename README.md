@@ -15,3 +15,5 @@
 6. https://github.com/portswigger/logger-plus-plus
 7. https://github.com/PortSwigger/collaborator-everywhere (ssrf)
 8. https://github.com/portswigger/autorize (idor)
+9. https://github.com/portswigger/log4shell-scanner & https://github.com/portswigger/log4shell-everywhere (log4j scanner)
+10. https://github.com/portswigger/active-scan-plus-plus
