@@ -6,7 +6,7 @@
 
 **Must**
 
-1. https://github.com/portswigger/bypass-bot-detection
+1. ~https://github.com/portswigger/bypass-bot-detection~ https://github.com/sleeyax/burp-awesome-tls
 2. https://github.com/portswigger/autorize
 3. https://github.com/h0tak88r/Convert-Type-Convert-All
 4. https://github.com/portswigger/backslash-powered-scanner
