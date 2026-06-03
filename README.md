@@ -1,5 +1,9 @@
 # awesome-burp-extensions
 
+**2026**
+
+- https://github.com/projectdiscovery/nuclei-burp-plugin
+
 **Must**
 
 1. https://github.com/portswigger/bypass-bot-detection
